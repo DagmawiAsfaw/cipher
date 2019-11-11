@@ -7,4 +7,4 @@
 
 ### CIPHER
 ---
-a simple aes encryption based web application
+a simple **AES** encryption based web application

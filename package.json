@@ -2,7 +2,10 @@
   "name": "cipher",
   "version": "0.1.0",
   "private": true,
+  
   "dependencies": {
+    "aes-js": "^3.1.2",
+    "node-sass": "^4.13.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
@@ -27,5 +30,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
